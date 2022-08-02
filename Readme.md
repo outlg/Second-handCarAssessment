@@ -78,3 +78,4 @@
 14、点击“软件介绍”和“软件分享”，效果分别如下。
 
 ![img](Readme.assets/clip_image002-165945409974851.jpg) ![img](Readme.assets/clip_image004-165945409975152.jpg)
+![img](Readme.assets/clip_image002-165945409974851.jpg) ![img](Readme.assets/clip_image004-165945409975152.jpg)
