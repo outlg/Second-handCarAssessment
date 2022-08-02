@@ -33,7 +33,7 @@
 
  
 
-<img src="Readme.assets/clip_image002-16594539396059.jpg" alt="img" style="zoom:67%;" /><img src="Readme.assets/clip_image004-165945393960610.jpg" alt="img" style="zoom:67%;" /><img src="Readme.assets/clip_image006-165945393960611.jpg" alt="img" style="zoom:67%;" />                    ![img](Readme.assets/clip_image008-165945393960712.jpg)         
+<img src="Readme.assets/clip_image002-16594539396059.jpg" alt="img" style="zoom:67%;" /><img src="Readme.assets/clip_image004-165945393960610.jpg" alt="img" style="zoom:67%;" /><img src="Readme.assets/clip_image006-165945393960611.jpg" alt="img" style="zoom:67%;" />     
 
 4、如果没有账户也可以进行注册，注册界面如下。
 
